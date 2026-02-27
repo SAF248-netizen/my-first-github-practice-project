@@ -1,0 +1,23 @@
+*{
+  background-color:light brown;
+  margin:0.5px, 0, 0.5px, 0;
+  padding: 0;
+}
+body{
+  font-family: 'poppins', sans-serif;
+  Color: Black;
+  text-align: center;
+}
+header{
+  background-color: dark brown;
+  color: white;
+  padding: 50px;
+}
+.menu{
+  margin-top: 30px;
+  font-size: 1.5 rem;
+}
+ul{
+  list-style: none;
+  padding: 0;
+}
