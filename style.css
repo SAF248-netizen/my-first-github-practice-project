@@ -1,5 +1,5 @@
 *{
-  background-color:light brown;
+  background-color:#f5f5dc;
   margin:0.5px, 0, 0.5px, 0;
   padding: 0;
 }
@@ -15,7 +15,7 @@ header{
 }
 .menu{
   margin-top: 30px;
-  font-size: 1.5 rem;
+  font-size: 1.5rem;
 }
 ul{
   list-style: none;
